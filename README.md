@@ -77,13 +77,13 @@ A web application for booking and managing appointments online with an easy sche
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ritesh691&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=ritesh691&theme=nord&row=1&column=6" />
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh691&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh691&theme=react-dark" />
 </div>
 
 <br/>
