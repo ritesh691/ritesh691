@@ -67,23 +67,23 @@ A web application for booking and managing appointments online with an easy sche
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritesh691&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh691&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ritesh691&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh691&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&hide=jupyter%20notebook" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=ritesh691&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%" />
+<img src="https://streak-stats.demolab.com?user=ritesh691&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&hide_border=false" width="70%" />
 
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ritesh691&theme=nord&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=ritesh691&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh691&theme=react-dark" />
+<img src="https://activity-graph.herokuapp.com/graph?username=ritesh691&theme=react-dark&hide_border=true&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" />
 </div>
 
 <br/>
